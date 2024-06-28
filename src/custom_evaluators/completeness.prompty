@@ -1,6 +1,6 @@
 ---
-name: Reasonableness
-description: Evaluates reasonableness score for QA scenario
+name: Completenessness
+description: Evaluates completenessness score for QA scenario
 model:
   api: chat
   configuration:
